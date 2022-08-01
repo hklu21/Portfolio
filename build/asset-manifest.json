@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.41cd8b41.css",
+    "main.js": "/static/js/main.cf7d3b14.js",
+    "static/js/787.79410f33.chunk.js": "/static/js/787.79410f33.chunk.js",
+    "static/media/shot_1.1.png": "/static/media/shot_1.1.53b3f34b3718f40dc3d6.png",
+    "static/media/shot_3.1.png": "/static/media/shot_3.1.284bc16299833fa37795.png",
+    "static/media/shot_6.1.png": "/static/media/shot_6.1.7ef24e297f106d74a50c.png",
+    "static/media/shot_3.2.png": "/static/media/shot_3.2.0e5360d72a80bf4c10b1.png",
+    "static/media/shot_3.3.png": "/static/media/shot_3.3.bf27d79528a073b51b75.png",
+    "static/media/shot_2.1.png": "/static/media/shot_2.1.b04fcb9670a60499deb4.png",
+    "static/media/shot_5.2.png": "/static/media/shot_5.2.fe27aa4131a55e8ced98.png",
+    "static/media/LHK.jpg": "/static/media/LHK.7680db4345a7c7dbf43c.jpg",
+    "static/media/shot_5.1.png": "/static/media/shot_5.1.7bf96bd4bad65bdbd557.png",
+    "static/media/shot_5.3.png": "/static/media/shot_5.3.ef6788460972e182e2b2.png",
+    "static/media/shot_6.2.png": "/static/media/shot_6.2.1d14637751469ececdc3.png",
+    "static/media/H.png": "/static/media/H.ad718d1ed4f08a54b7ba.png",
+    "static/media/shot_6.3.png": "/static/media/shot_6.3.b11893a9ec8edf44f90a.png",
+    "static/media/L.png": "/static/media/L.cd28106c208188381520.png",
+    "static/media/helvetica-neu.ttf": "/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/LaBelleAurore.woff": "/static/media/LaBelleAurore.9c5433c64baa43d1d274.woff",
+    "static/media/fdu2.png": "/static/media/fdu2.20c78d2d819ac241dd6c.png",
+    "static/media/LaBelleAurore.woff2": "/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/CoolveticaRg-Regular.woff": "/static/media/CoolveticaRg-Regular.8307bfa187bccdc55f4d.woff",
+    "static/media/fdu1.png": "/static/media/fdu1.60a3cc4e864647b7743f.png",
+    "static/media/uchicago2.png": "/static/media/uchicago2.c14c65c8bfac9a5b3cf0.png",
+    "static/media/CoolveticaRg-Regular.woff2": "/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "index.html": "/index.html",
+    "main.41cd8b41.css.map": "/static/css/main.41cd8b41.css.map",
+    "main.cf7d3b14.js.map": "/static/js/main.cf7d3b14.js.map",
+    "787.79410f33.chunk.js.map": "/static/js/787.79410f33.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.41cd8b41.css",
+    "static/js/main.cf7d3b14.js"
+  ]
+}
