@@ -1,0 +1,193 @@
+.education-page {
+    padding-left: 100px;
+    padding-right: 50px;
+    width: calc(100% - 150px);
+    position: initial;
+    height: 100%;
+    overflow: auto;
+
+    .text-zone {
+        position: absolute;
+        top: 45vh;
+        transform: translateY(-50%);
+        width: 100%;
+        max-height: 90%;
+      }
+
+    
+    h1 {
+    
+
+        font-size: 53px;
+        font-family: 'Coolvetica';
+        color: #ffd700;
+        font-weight: 400;
+        margin-top: 0;
+        position: relative;
+        margin-bottom: auto;
+        left: 5px;
+
+        &:before {
+            content: '<h1>';
+            font-family: 'La Belle Aurore', cursive;
+            color: #ffd700;
+            font-size: 18px;
+            position: absolute;
+            margin-top: -10px;
+            left: -30px;
+            opacity: 0.6;
+            line-height: 18px;
+        }
+
+        &:after {
+            content: '<h1/>';
+            font-family: 'La Belle Aurore', cursive;
+            color: #ffd700;
+            font-size: 18px;
+            line-height: 18px;
+            position: absolute;
+            left: -40px;
+            bottom: -20px;
+            margin-left: 10px;
+            opacity: 0.6;
+        }
+
+    
+    }
+
+    h1.page-title {
+        margin-left: 100px;
+        margin-top: 100px;
+    }
+
+    .education {
+        margin-left: 120px;
+        margin-top: 100px;
+        width: 50%;
+        display: inline-flex
+    }
+
+    label {
+        color: #fff;
+        font-size: x-large;
+        margin-top: 30px;
+    }
+    h3 {
+        color: #fff;
+        font-size: x-large;
+        margin-left: 10px;
+        display: inline;
+    }
+    p {
+        color: #fff;
+        font-size: x-large;
+        margin-left: 15px;
+        display: inline;
+        font-family: cursive;
+        font-style: italic;
+    }
+    p.time{
+        margin-left: 0px;
+    }
+    h3.degree {
+        margin-right: 100px;
+        margin-top: 30px;
+    }
+
+    h2.university-name {
+        margin: auto;
+        font-weight: 400;
+        font-size: 36px;
+        font-family: sans-serif;
+        letter-spacing: 3px;
+        animation: fadeIn 0.5s 0.5s backwards;
+        color: #ffd900d8;
+        box-shadow: 0 0 20px 0px lightyellow;
+        width: fit-content;
+        display: inline;
+    }
+
+    .education-info {
+        display: inline;
+    }
+
+
+}
+
+.stage-cube-cont-edu{
+    width: 50%;
+    height: 100%;
+    padding-top: 0%;
+    position: absolute;
+    right: 5%;
+    
+    overflow: auto;
+  }
+  
+  .cubespinner-schools {
+    animation-name: spincube_1;
+    animation-timing-function: ease-in-out;
+    animation-iteration-count: infinite;
+    animation-duration: 6s;
+    transform-style: preserve-3d;
+    transform-origin: 100px 100px 0;
+    margin-left: calc(50% - 100px);
+    
+  
+    div {
+      position: absolute;
+      width: 200px;
+      height: 200px;
+      border: 1px solid #ccc;
+      background: rgba(255, 255, 255, 0.4);
+      text-align: center;
+      font-size: 100px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      box-shadow: 0 0 30px 5px lightyellow;
+      
+    }
+  
+    .face1 {
+      transform: translateZ(120px);
+      color: #dd0031;
+    }
+    .face2 {
+      transform: rotateY(90deg) translateZ(120px);
+      color: #f06529;
+    }
+    .face3 {
+      transform: rotateY(90deg) rotateX(90deg) translateZ(120px);
+      color: #28a4d9;
+    }
+    .face4 {
+      transform: rotateY(180deg) rotateZ(0deg) translateZ(120px);
+      color: #5ed4f4;
+    }
+    .face5 {
+      transform: rotateY(-90deg) rotateZ(0deg) translateZ(120px);
+      color: #efd81d;
+    }
+    .face6 {
+      transform: rotateX(-90deg) translateZ(100px);
+      color: #ec4d28;
+    }
+  }
+  
+  @keyframes spincube_1 {
+    from,
+    to {
+      transform: rotateY(0deg);
+    }
+    25% {
+      transform: rotateY(-90deg);
+    }
+    50% {
+      transform: rotateY(-180deg);
+    }
+    75% {
+      transform: rotateY(-270deg);
+    }
+  }
+
