@@ -20,7 +20,7 @@ import {
     faDocker,
     faUbuntu,
     faMarkdown,
-    faBootstrap
+    faBootstrap,
   } from '@fortawesome/free-brands-svg-icons'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 
@@ -283,8 +283,14 @@ const Skills = () => {
                     <FontAwesomeIcon className='language-icon' icon={faLinux} color="#28A4D9" />
                     <h3 className='language'>Linux,</h3>
                 </div>
+                <div className='language'>
+                    <h3 className='language'>Heroku,</h3>
+                </div>
                 <br></br>
                 <br></br>
+                <div className='language'>
+                    <h3 className='language'>Netlify,</h3>
+                </div>
                 <div className='language'>
                     <h3 className='language'>Postman,</h3>
                 </div>

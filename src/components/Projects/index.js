@@ -57,7 +57,7 @@ const Projects = () => {
                     </p>
                     <br></br>
                     <p className='jd'><a href='https://github.com/hklu21/ReduxChatApp'>source code</a></p>
-                    <p className='jd'><a href='https://github.com/hklu21/ReduxChatApp'>live demo</a></p>
+                    <p className='jd'><a href='https://hklu-chat-rooms.herokuapp.com/home'>live demo</a></p>
                 </div>
                 <br></br>
                 <div className='project-steps'>
@@ -84,7 +84,7 @@ const Projects = () => {
                     <p className='jd'>6. Built a <b>Docker</b> image and a container for the application.
                     </p>
                     <br></br>
-                    <p className='jd'>7. Created a live demo: deployed the application with <b>Netlify</b>.
+                    <p className='jd'>7. Deployed the application on <b>Heroku</b>.
                     </p>
                     <br></br>
                     <br></br>
