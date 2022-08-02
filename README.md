@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 This portfolio website is built by React and Sass, deployed with Netlify.
+[live page](https://hengkuan-portfolio.netlify.app/)
 
 I made this portfolio by following [this video](https://www.youtube.com/watch?v=ESHaail1eGc&t=0s). It is a nice tutorial with explicit explanation and beautiful style, I really recommend you guys to watch it if you also want to build your websites.
 

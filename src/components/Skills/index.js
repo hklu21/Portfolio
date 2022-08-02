@@ -286,11 +286,11 @@ const Skills = () => {
                 <div className='language'>
                     <h3 className='language'>Heroku,</h3>
                 </div>
-                <br></br>
-                <br></br>
                 <div className='language'>
                     <h3 className='language'>Netlify,</h3>
                 </div>
+                <br></br>
+                <br></br>
                 <div className='language'>
                     <h3 className='language'>Postman,</h3>
                 </div>
