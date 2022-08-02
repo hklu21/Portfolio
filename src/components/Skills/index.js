@@ -240,7 +240,7 @@ const Skills = () => {
           </div>
           <div className='skill'>
             <div className='skill-info'>
-                <h2 className='skill-name'>Back End:</h2>
+                <h2 className='skill-name'>Databases:</h2>
                 <br></br>
                 <br></br>
                 <div className='language'>

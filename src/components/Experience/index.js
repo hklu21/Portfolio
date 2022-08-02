@@ -63,14 +63,14 @@ const Experience = () => {
                 <br></br>
                 <p className='jd'><b className='head'>·</b> Worked with teammates to 
                     provide solutions to decrease illegal users of our product by 
-                    more than 50% in a season. Built data-driven model to support the company's decision.
+                    more than 50% in a season. Built data-driven models to support the company's decision.
                 </p>
                 <br></br>
                 <p className='jd'><b className='head'>·</b> Applied and unsupervised learning algorithms (K-means, Clustering) 
                     and feature learning methods to classify legal and illegal users using <b>Spark</b>(PySpark).
                 </p>
                 <br></br>
-                <p className='jd'><b className='head'>·</b> Wrote <b>Shell</b> and <b>Python</b> script to parse JSON data. 
+                <p className='jd'><b className='head'>·</b> Wrote <b>Shell</b> and <b>Python</b> scripts to parse JSON data. 
                     Processed data screening using Python's <b>Numpy</b> and <b>Pandas</b>. Improved
                     the efficiency of our machine-learning model by by more than 25%.
                 </p>

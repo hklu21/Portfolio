@@ -133,7 +133,7 @@ const Projects = () => {
                     <p className='jd'>2. Made the contents <b>responsive</b> to page size and availiable on different devices.
                     </p>
                     <br></br>
-                    <p className='jd'>3. Constructed back-end server with <b>ExpressJs</b> deploying on <b>Sqlite</b> databases.
+                    <p className='jd'>3. Constructed back-end server using <b>ExpressJs</b> with <b>Sqlite</b> databases.
                     </p>
                     <br></br>
                     <p className='jd'>4. Developed <b>REST API</b> for CRUD operations to data.
@@ -266,7 +266,7 @@ const Projects = () => {
                     <p className='jd'>1. Drew DFA of Golite using <b>Mermaid</b>. Designed a scanner for <b>lexical analysis</b>.
                     </p>
                     <br></br>
-                    <p className='jd'>2. Deployed the Abstract Syntax Tree data structure on the passer
+                    <p className='jd'>2. Applied the Abstract Syntax Tree data structure on the passer
                         for <b>syntactical analysis</b> and on the <b>semantic analysis</b>.
                     </p>
                     <br></br>
