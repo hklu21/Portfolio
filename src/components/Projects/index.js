@@ -205,7 +205,7 @@ const Projects = () => {
                     <p className='jd'>5. Archived the result files of free users to <b>Glacier vault</b> and restore them to S3 buckets when one upgrades to premium.
                     </p>
                     <br></br>
-                    <p className='jd'>6. Added a load-balancer(<b>ELB</b>) for the web server and auto sacling rules to all servers using <b>CloudWatch</b>
+                    <p className='jd'>6. Added a load-balancer(<b>ELB</b>) for the web server.
                     </p>
                     <br></br>
                     <p className='jd'>7. Added auto sacling rules to all servers using <b>CloudWatch</b>.
