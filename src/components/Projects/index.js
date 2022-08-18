@@ -118,7 +118,7 @@ const Projects = () => {
                         students can submit assignments, and (only) admins can add new courses to the system and add students to a course.
                         Go to <a href="https://github.com/hklu21/MyCanvas/blob/main/README.md">this page</a> to view the full functionalities of 
                         Easy Canvas.
-                        We used <b>React</b> for front-end and <b>Express</b> and splite for backend.
+                        We used <b>React</b> for front-end and <b>Express</b> and sqlite for backend.
                     </p>
                     <br></br>
                     <p className='jd'><a href='https://github.com/hklu21/MyCanvas'>source code</a></p>

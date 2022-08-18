@@ -66,7 +66,7 @@ const Experience = () => {
                     more than 50% in a season. Built data-driven models to support the company's decision.
                 </p>
                 <br></br>
-                <p className='jd'><b className='head'>·</b> Applied and unsupervised learning algorithms (K-means, Clustering) 
+                <p className='jd'><b className='head'>·</b> Applied unsupervised learning algorithms (K-means, Clustering) 
                     and feature learning methods to classify legal and illegal users using <b>Spark</b>(PySpark).
                 </p>
                 <br></br>
