@@ -153,6 +153,14 @@ const Skills = () => {
                     <FontAwesomeIcon className='language-icon' icon={faAngular} color="#28A4D9" />
                     <h3 className='language'>Angular,</h3>
                 </div>
+                <br></br>
+                <br></br>
+                <div className='language'>
+                    <h3 className='language'>Spring oot</h3>
+                </div>
+                <div className='language'>
+                    <h3 className='language'>Thymeleaf</h3>
+                </div>
             </div>
             <div className="stage-cube-cont-skill">
                 <div className="cubespinner">

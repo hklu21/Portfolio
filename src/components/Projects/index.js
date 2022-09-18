@@ -3,6 +3,8 @@ import { useEffect, useState } from 'react'
 import Loader from 'react-loaders'
 import AnimatedLetters from '../AnimatedLetters'
 import './index.scss'
+
+import P0 from '../../assets/images/shot_0.1.png'
 import P1 from '../../assets/images/shot_1.1.png'
 import P2 from '../../assets/images/shot_2.1.png'
 import P3_1 from '../../assets/images/shot_3.1.png'
@@ -37,6 +39,63 @@ const Projects = () => {
               idx={15}
             />
           </h1>
+          <div className='projects'>
+            <div className='projects-info'>
+                <div className='project-name'>
+                    <h2 className='company-name'>Polling App</h2>
+                    <p className='des'>Full-Stack Web Application</p>
+                </div>
+                <br></br>
+                <div className='project-description'>
+                    <label><b>Project Description:</b></label>
+                    <br></br>
+                    <p className='pd'>
+                        This is a polling app build with<b>Spring Boot</b>,<b>Spring Security</b>, <b>JWT</b>,
+                        <b>MySQL</b>, <b>React</b> and <b>Ant Design</b>. I use JWT to authorize login process and email
+                        verification is required when register new acounts. After registration and logging in, one can manage
+                        the polls created by self, can view the list of existing polls and vote for some polls.
+                    </p>
+                    <br></br>
+                    <p className='jd'><a href='https://github.com/hklu21/PollApp'>source code</a></p>
+                </div>
+                <br></br>
+                <div className='project-steps'>
+                    <label><b>Main Steps:</b></label>
+                    <br></br>
+                    <p className='jd'>1. Constructed back-end server with <b>Java Spring Boot</b> and <b>MySQL</b> databases.
+                    Developed <b>REST API</b> for CRUD operations to data.
+                    </p>
+                    <br></br>
+                    <p className='jd'>2. Configured <b>Spring Security</b> along with <b>JWT</b>(JSON Web Tokens) authentication for login and registration process.
+                    </p>
+                    <br></br>
+                    <p className='jd'>3. Evoked an email verification for registration using <b>JavaMail</b> API, added <b>Thymeleaf</b> templates for verfication-related pages.
+                    </p>
+                    <br></br>
+                    <p className='jd'>4. Developed <b>REST API</b> for CRUD operations to data (registration, poll & vote management).
+                    </p>
+                    <br></br>
+                    <p className='jd'>5. Built the front-end using <b>React</b> with <b>Ant Design</b>.
+                    </p>
+                    <br></br>
+                    <p className='jd'>6. Added server APIs for Admin role.
+                    </p>
+                    <br></br>
+                    <br></br>
+                </div>
+                <div className='project-view'>
+                    <label><b>Sample View:</b></label>
+                    <br></br>
+                    <img
+                        className='P0'
+                        src={P0}
+                        alt="P0"
+                    />
+
+                </div>
+                
+            </div>
+          </div>
           <div className='projects'>
             <div className='projects-info'>
                 <div className='project-name'>
